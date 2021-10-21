@@ -1,46 +1,32 @@
-# Getting Started with Create React App
+# Miguel Romero
+## Principal Software Engineer at Globant
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### About Me
+Miguel is an efficient developer, has a strong knowledge of javascript language and web development from DB, Backend Services and Front end development. The principal frameworks that him works are: React, NodeJS, Webpack, Gulp, Handlebars, Typescript. He feels secure with any challange about web programming, the major project that he has been worked was Cars.com, one of the biggest web page in America that offers a marketplace that creates connections between cars sellers and buyers. In that proyect Miguel developed the web app "turbo cars" that offers a search of used cars and the connection with the dealer. The proyect contains a Server Rendering technique that offers SEO and an Angular client that performs funcionality to the web components.
 
-## Available Scripts
+### Recent Experience
 
-In the project directory, you can run:
+July 2019 - 2020
+LendingClub. Lending club is a peer to peer lending company. I help them to develop new Web UI experiences for Borrowers with Personal Loans.
 
-### `yarn start`
+January 2021 - Present
+MissionLane. MissionLane is a company that provide credit cards to customer with low credit history. I worked on develop new customer ui experiences, integrating flows with microservices and third parties services like tracking tools, a/b testing.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Skills
+I can teach:
+- Javascript
+- React
+- Typescript
+- Programming Patterns
+- Programming Principles
+- Css styles
+- Search optimization
+- Leadership
+- Clear thinker
+- Focus
+- Self-taught
+  
+I can perform:
+- Express
+- Kotlin
+- Bundlers

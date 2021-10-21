@@ -1,0 +1,21 @@
+.bg-console-color {
+  background-color: var(--bg-black);
+}
+.text-stream-color {
+  color: var(--white);
+}
+.green {
+  color: var(--green);
+}
+.cyan {
+  color: var(--cyan);
+}
+.magenta{
+  color: var(--magenta);
+}
+.magenta-hover:hover{
+  color: var(--magenta);
+}
+.no-underline {
+  text-decoration: none;
+}

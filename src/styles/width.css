@@ -1,0 +1,11 @@
+.w0 {
+  width: 0px;
+}
+.wc1 {
+  width: 6em;
+}
+
+.w-full {
+  width: 100%;
+  box-sizing: border-box;
+}
