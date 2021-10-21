@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/miguelromerogutierrez/static/css/main.f0e34cdf.chunk.css",
+    "main.js": "/miguelromerogutierrez/static/js/main.7b7fac8a.chunk.js",
+    "main.js.map": "/miguelromerogutierrez/static/js/main.7b7fac8a.chunk.js.map",
+    "runtime-main.js": "/miguelromerogutierrez/static/js/runtime-main.574ca45a.js",
+    "runtime-main.js.map": "/miguelromerogutierrez/static/js/runtime-main.574ca45a.js.map",
+    "static/js/2.11a0f9e3.chunk.js": "/miguelromerogutierrez/static/js/2.11a0f9e3.chunk.js",
+    "static/js/2.11a0f9e3.chunk.js.map": "/miguelromerogutierrez/static/js/2.11a0f9e3.chunk.js.map",
+    "static/js/3.18aa5e75.chunk.js": "/miguelromerogutierrez/static/js/3.18aa5e75.chunk.js",
+    "static/js/3.18aa5e75.chunk.js.map": "/miguelromerogutierrez/static/js/3.18aa5e75.chunk.js.map",
+    "index.html": "/miguelromerogutierrez/index.html",
+    "static/css/main.f0e34cdf.chunk.css.map": "/miguelromerogutierrez/static/css/main.f0e34cdf.chunk.css.map",
+    "static/js/2.11a0f9e3.chunk.js.LICENSE.txt": "/miguelromerogutierrez/static/js/2.11a0f9e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.574ca45a.js",
+    "static/js/2.11a0f9e3.chunk.js",
+    "static/css/main.f0e34cdf.chunk.css",
+    "static/js/main.7b7fac8a.chunk.js"
+  ]
+}
